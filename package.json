@@ -6,10 +6,6 @@
   "private": true,
   "dependencies": {},
   "pebble": {
-    "main": {
-      "rockyjs": "src/rocky/index.js",
-      "pkjs": "src/pkjs/index.js"
-    },
     "displayName": "pebblegotchi",
     "uuid": "1723db53-7f78-4f46-9c90-631305cfb42e",
     "projectType": "rocky",
