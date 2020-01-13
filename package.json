@@ -1,6 +1,6 @@
 {
   "name": "pebblegotchi",
-  "author": "MakeAwesomeHappen",
+  "author": "sp1d3rb0y",
   "version": "1.0.0",
   "keywords": ["pebble-app"],
   "private": true,
@@ -18,7 +18,8 @@
       "watchface": true
     },
     "resources": {
-      "media": []
+      "media": [
+      ]
     }
   }
 }
